@@ -133,7 +133,7 @@ Here are five German traffic signs that I found on the web:
 ![alt text][image6] ![alt text][image7] ![alt text][image8] 
 ![alt text][image9] ![alt text][image10]
 
-The images have different pixel height and width from what the network accepts. So, they are resized using cv2.resize() function and preprocessed by grayscaling normalizing.
+The images have different pixel height and width from what the network accepts. So, they are resized using cv2.resize() function and preprocessed by grayscaling and normalizing.
 
 After resizing the signs look as below:
 
