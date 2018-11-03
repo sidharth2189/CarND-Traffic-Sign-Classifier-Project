@@ -28,7 +28,7 @@ This project requires:
 
 The lab environment can be created with CarND Term1 Starter Kit. Click [here](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md) for the details.
 
-* If working from the workspace, everytime the environment is set up, navigate to project repository and install the imblearn module using pip install imblearn
+* If working from the workspace, everytime the environment is set up, navigate to project repository on the workspace terminal and install the imblearn module using pip install imblearn
 
 * Other modules required are, Tensorflow, Pandas, Numpy, Matplotlib and OpenCV
 
